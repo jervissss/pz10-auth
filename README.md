@@ -13,6 +13,16 @@
 
 ## 📁 Структура проекта
 
+<img width="417" height="516" alt="image" src="https://github.com/user-attachments/assets/17958402-55ea-4ebd-b6ae-e2edda953cd4" />
+
+
+
+<br>
+
+<img width="356" height="119" alt="image" src="https://github.com/user-attachments/assets/a9e5de15-35ba-4d85-b217-34ad436173f3" />
+
+
+
 ## 🚀 Инструкция по запуску
 **1. Клонирование и настройка окружения**
 ```powershell
